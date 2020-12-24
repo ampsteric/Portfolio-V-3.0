@@ -1,0 +1,7 @@
+a:hover {
+    color: white !important;
+    border-bottom: 3px solid #884e47;
+}
+a {
+    color: grey;
+}

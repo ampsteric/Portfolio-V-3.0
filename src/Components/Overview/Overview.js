@@ -17,7 +17,7 @@ export default function Overview() {
                     <p style={{color:'white' , textAlign:'left'}}>Hi, My name is Shashwat Mishra. I am a Sophomore at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. An 18 year old, decoding Life by building scalable Web services for high availability, resilience and security.</p>
                 </div>
                 <div className="col-sm-6">
-                <img src={Gif} style={{width:400}}/>
+                <img src={Gif} style={{width:'100%'}}/>
                 </div>
             </div>
             <div className="col-sm-12" style={{color:'white', textAlign:'left'}}>

@@ -12,7 +12,6 @@ export default function Contact() {
                     <div className="col-sm-12" style={{color:'white', textAlign:'left'}}>
                 <h4>Lets Connect and make something Great.. 😃</h4>
                 <hr style={{ width:'100%' , height:1 , borderWidth:0 , backgroundColor:'#a0a3a5'}} />
-                💬 Ask me about anything an everything. <br/>
                 📫 LinkedIn profile: <a  style={{color:'#2085FF'}} href='https://www.linkedin.com/in/shashwat-mishra-699bab194/'>Shashwat Mishra</a><br/>
                 🔔 Instagram:-  <a style={{color:'#2085FF'}} href='https://www.instagram.com/_shashwatmishra_/'>_shashwatmishra_</a><br/><br/>
             </div>
